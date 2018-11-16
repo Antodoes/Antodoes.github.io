@@ -1,0 +1,118 @@
+/* Police,
+
+font-family: 'Noto Sans TC', sans-serif;
+
+*/
+
+body {
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+
+h1 {
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+h2 {
+	color: white;
+	font-size: 30px;
+	font-style: normal;
+}
+
+h3 {
+	color: #076568;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+h4 {
+	color: #2fc1c5;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+h5 {
+	color: #076568;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+/* Header */
+
+.navbar {
+	background-color: white;
+	border: none;
+	height: 60px;
+}
+
+#navbarAL a {
+	color: #076568;
+  	font-size: 20px;
+  	line-height: 60px;
+}
+
+#navbarAL a:hover {
+	color: #2fc1c5;
+}
+
+.navbar-right {
+	padding: 0px 35px;
+}
+
+
+/* Dropdown menu quand lg */
+
+/* Banner */
+
+
+#banner{
+  text-align: center;
+  background-image: url("../img/backgroundhp.jpeg");
+  background-size: cover;
+  padding: 150px 30px;
+  background-position: fixed;
+}
+
+
+/* Content*/
+
+.imgsite {
+	width: 80%;
+	
+}
+
+.divmargintop70 {
+	margin-top: 70px;
+}
+
+.divmargintop30 {
+	margin-top: 30px;
+}
+.divmarginbot {
+	margin-bottom: 50px;
+}
+
+/*Newsletter*/
+
+
+
+/* footer */
+
+#footer{
+  padding: 30px;
+  background: white;
+  color: grey;
+}
+
+#footer a {
+  color: #076568;
+  font-size: 40px;
+  margin-left:20px;
+  margin-right: 20px;
+}
+
+#footer a:hover {
+  color: #2fc1c5;
+}
